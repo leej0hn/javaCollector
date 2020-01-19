@@ -4,3 +4,7 @@
       - [HashMap概述](http://note.youdao.com/noteshare?id=e6af1d8abc7e6f0753d3c769ceab6604)
       - [HashMap取模解释](http://note.youdao.com/noteshare?id=895c2c5a5674ad974d9957127252e962)
       - [漫画：高并发下的HashMap链接出现环](http://note.youdao.com/noteshare?id=d3c82f9b41fca35f1dc8ab20838502c4)
+- ## 并发
+   - ### CAS
+      - [漫画：什么是 CAS 机制？](http://note.youdao.com/noteshare?id=7922870bfab92e083663d5d855e5c3d0) 
+      - [漫画：什么是CAS机制？（进阶篇）](http://note.youdao.com/noteshare?id=ba3e9d0f63251d97c5dc88d5309ea189) 
