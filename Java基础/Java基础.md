@@ -9,6 +9,8 @@
    - ### CAS
       - [漫画：什么是 CAS 机制？](http://note.youdao.com/noteshare?id=7922870bfab92e083663d5d855e5c3d0) 
       - [漫画：什么是CAS机制？（进阶篇）](http://note.youdao.com/noteshare?id=ba3e9d0f63251d97c5dc88d5309ea189) 
+   - ### 线程池
+      - [线程池总结](http://note.youdao.com/noteshare?id=cfa03d2f16b7a72338699c4006dcff17)      
 - ## JVM
    - ### [JVM优化实战分析.pdf](http://note.youdao.com/noteshare?id=a1ace96da8ce6ce4f9fc16fbb615e4b3)
 - ## 网络
