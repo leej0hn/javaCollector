@@ -16,5 +16,6 @@
 - ## 网络
    - ### [HTTPS-中间人攻击](http://note.youdao.com/noteshare?id=c89a19f2cfe69a3ddfaabc916eb2878e)   
    - ### [HTTPS的原理](http://note.youdao.com/noteshare?id=80ad3a283cc3f76f90b6f17f976218b5)   
+   - ### [HTTP缓存机制及原理](http://note.youdao.com/noteshare?id=1ea8eb1653ab7d2fedd24d7b0064b01a)   
 - ## Spring
    - ###[Spring源码简要分析](http://note.youdao.com/noteshare?id=24906ff0acce29c84f28cadbda248b29)   
