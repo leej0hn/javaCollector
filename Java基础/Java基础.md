@@ -14,6 +14,8 @@
       - [线程池总结](http://note.youdao.com/noteshare?id=cfa03d2f16b7a72338699c4006dcff17)      
 - ## JVM
    - ### [JVM优化实战分析.pdf](http://note.youdao.com/noteshare?id=a1ace96da8ce6ce4f9fc16fbb615e4b3)
+- ## java8新特性
+   - ### [java8新特性](http://note.youdao.com/noteshare?id=ff67d4dcc181f5952d10602634255c98)   
 - ## 网络
    - ### [HTTPS-中间人攻击](http://note.youdao.com/noteshare?id=c89a19f2cfe69a3ddfaabc916eb2878e)   
    - ### [HTTPS的原理](http://note.youdao.com/noteshare?id=80ad3a283cc3f76f90b6f17f976218b5)   
