@@ -1,6 +1,4 @@
 # Java基础
-- ## IO
-   - ### [NIO-BIO-AIO的区别](http://note.youdao.com/noteshare?id=8f9b6f235baf88a1cd3d818df32b9eae)
 - ## 集合
    - ### HashMap
       - [HashMap概述](http://note.youdao.com/noteshare?id=e6af1d8abc7e6f0753d3c769ceab6604)
@@ -8,6 +6,8 @@
       - [漫画：高并发下的HashMap链接出现环](http://note.youdao.com/noteshare?id=d3c82f9b41fca35f1dc8ab20838502c4)
       - [HashMap在1.7和1.8中区别](http://note.youdao.com/noteshare?id=6be03332bb017e338bcf1e217c53cf2c)
       - [为什么HashMap使用红黑树而不使用AVL树](http://note.youdao.com/noteshare?id=8d9cec4fc7a2d106a82939cf8c4e1d36)
+- ## IO
+   - ### [NIO-BIO-AIO的区别](http://note.youdao.com/noteshare?id=8f9b6f235baf88a1cd3d818df32b9eae)      
 - ## 并发
    - ### CAS
       - [漫画：什么是 CAS 机制？](http://note.youdao.com/noteshare?id=7922870bfab92e083663d5d855e5c3d0) 
