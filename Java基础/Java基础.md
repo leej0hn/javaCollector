@@ -26,3 +26,4 @@
    - ### [HTTPS密钥知识](http://note.youdao.com/noteshare?id=0a041efe9772f38f1d762961086f6fbd)   
 - ## Spring
    - ### [Spring源码简要分析](http://note.youdao.com/noteshare?id=24906ff0acce29c84f28cadbda248b29)   
+   - ### [Spring循环依赖](http://note.youdao.com/noteshare?id=6e349beea3918a855fd963a65c132834)   
