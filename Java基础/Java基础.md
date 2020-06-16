@@ -16,6 +16,7 @@
       - [线程池总结](http://note.youdao.com/noteshare?id=cfa03d2f16b7a72338699c4006dcff17)      
 - ## JVM
    - ### [JVM优化实战分析.pdf](http://note.youdao.com/noteshare?id=a1ace96da8ce6ce4f9fc16fbb615e4b3)
+   - ### [JVM之内存分配---栈分配与TLAB](http://note.youdao.com/noteshare?id=24a603cb4cefd492a1b873539d1d2465)
 - ## java8新特性
    - ### [java8新特性](http://note.youdao.com/noteshare?id=ff67d4dcc181f5952d10602634255c98)   
 - ## 网络
