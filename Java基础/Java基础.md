@@ -6,6 +6,8 @@
       - [漫画：高并发下的HashMap链接出现环](http://note.youdao.com/noteshare?id=d3c82f9b41fca35f1dc8ab20838502c4)
       - [HashMap在1.7和1.8中区别](http://note.youdao.com/noteshare?id=6be03332bb017e338bcf1e217c53cf2c)
       - [为什么HashMap使用红黑树而不使用AVL树](http://note.youdao.com/noteshare?id=8d9cec4fc7a2d106a82939cf8c4e1d36)
+- ## IO
+   - ### [NIO-BIO-AIO的区别](http://note.youdao.com/noteshare?id=8f9b6f235baf88a1cd3d818df32b9eae)      
 - ## 并发
    - ### CAS
       - [漫画：什么是 CAS 机制？](http://note.youdao.com/noteshare?id=7922870bfab92e083663d5d855e5c3d0) 
@@ -16,6 +18,7 @@
       - [AQS结构及原理分析](http://note.youdao.com/noteshare?id=f34aeb782ff9ca5dad9e6e92c9c11d44)    
 - ## JVM
    - ### [JVM优化实战分析.pdf](http://note.youdao.com/noteshare?id=a1ace96da8ce6ce4f9fc16fbb615e4b3)
+   - ### [JVM之内存分配---栈分配与TLAB](http://note.youdao.com/noteshare?id=24a603cb4cefd492a1b873539d1d2465)
 - ## java8新特性
    - ### [java8新特性](http://note.youdao.com/noteshare?id=ff67d4dcc181f5952d10602634255c98)   
 - ## 网络
@@ -23,5 +26,7 @@
    - ### [HTTPS的原理](http://note.youdao.com/noteshare?id=80ad3a283cc3f76f90b6f17f976218b5)   
    - ### [HTTP缓存机制及原理](http://note.youdao.com/noteshare?id=1ea8eb1653ab7d2fedd24d7b0064b01a)   
    - ### [TCP建立连接协议是三次握手，关闭连接四次握手](http://note.youdao.com/noteshare?id=1b5f5581943361f8ce06dcad9161b53c)   
+   - ### [HTTPS密钥知识](http://note.youdao.com/noteshare?id=0a041efe9772f38f1d762961086f6fbd)   
 - ## Spring
    - ### [Spring源码简要分析](http://note.youdao.com/noteshare?id=24906ff0acce29c84f28cadbda248b29)   
+   - ### [Spring循环依赖](http://note.youdao.com/noteshare?id=6e349beea3918a855fd963a65c132834)   
