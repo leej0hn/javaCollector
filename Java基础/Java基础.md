@@ -21,6 +21,8 @@
    - ### [JVM之内存分配---栈分配与TLAB](http://note.youdao.com/noteshare?id=24a603cb4cefd492a1b873539d1d2465)
 - ## java8新特性
    - ### [java8新特性](http://note.youdao.com/noteshare?id=ff67d4dcc181f5952d10602634255c98)   
+- ## SPI
+   - ### [JAVA-SPI与Dubbo-SPI](http://note.youdao.com/noteshare?id=aac55865694f974252bb01655adc6dd7)   
 - ## 网络
    - ### [HTTPS-中间人攻击](http://note.youdao.com/noteshare?id=c89a19f2cfe69a3ddfaabc916eb2878e)   
    - ### [HTTPS的原理](http://note.youdao.com/noteshare?id=80ad3a283cc3f76f90b6f17f976218b5)   
