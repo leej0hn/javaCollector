@@ -33,3 +33,6 @@
 - ## Spring
    - ### [Spring源码简要分析](http://note.youdao.com/noteshare?id=24906ff0acce29c84f28cadbda248b29)   
    - ### [Spring循环依赖](http://note.youdao.com/noteshare?id=6e349beea3918a855fd963a65c132834)   
+- ## 认证授权
+   - ### [OAuth 2.0 的四种方式](http://note.youdao.com/s/CK1nZhpZ)   
+   - ### [OAuth2.0认证和授权机制讲解](http://note.youdao.com/s/F4jeaE8S)
