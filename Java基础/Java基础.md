@@ -8,7 +8,9 @@
       - [为什么HashMap使用红黑树而不使用AVL树](http://note.youdao.com/noteshare?id=8d9cec4fc7a2d106a82939cf8c4e1d36)
 - ## IO
    - ### [NIO-BIO-AIO的区别](http://note.youdao.com/noteshare?id=8f9b6f235baf88a1cd3d818df32b9eae)
-   - ### [IO详细分析](http://note.youdao.com/s/MDJrdgYi)      
+   - ### [IO详细分析](http://note.youdao.com/s/MDJrdgYi)   
+   - ### [Socket网络编程：BIO，NIO，select，epoll](http://note.youdao.com/noteshare?id=99a225da2b9b060e6c25df74f7e7de59)  
+   - ### [epoll本质](http://note.youdao.com/noteshare?id=0071e781bfc05a95a24fb1ed3ea351c9)     
 - ## 并发
    - ### CAS
       - [漫画：什么是 CAS 机制？](http://note.youdao.com/noteshare?id=7922870bfab92e083663d5d855e5c3d0) 
