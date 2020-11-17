@@ -19,6 +19,8 @@
       - [线程池总结](http://note.youdao.com/noteshare?id=cfa03d2f16b7a72338699c4006dcff17)     
    - ### JUC
       - [AQS结构及原理分析](http://note.youdao.com/noteshare?id=f34aeb782ff9ca5dad9e6e92c9c11d44)    
+   - ### synchronized
+      - [synchronized底层实现原理及锁优化](http://note.youdao.com/s/Y3hVVR)    
 - ## JVM
    - ### [JVM优化实战分析.pdf](http://note.youdao.com/noteshare?id=a1ace96da8ce6ce4f9fc16fbb615e4b3)
    - ### [JVM之内存分配---栈分配与TLAB](http://note.youdao.com/noteshare?id=24a603cb4cefd492a1b873539d1d2465)
