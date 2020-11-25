@@ -42,3 +42,5 @@
 - ## 认证授权
    - ### [OAuth 2.0 的四种方式](http://note.youdao.com/s/CK1nZhpZ)   
    - ### [OAuth2.0认证和授权机制讲解](http://note.youdao.com/s/F4jeaE8S)
+- ## 整合
+   - ### [基础强化](http://note.youdao.com/s/7Fiqox2T)   
