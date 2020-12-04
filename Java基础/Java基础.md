@@ -19,6 +19,7 @@
       - [线程池总结](http://note.youdao.com/noteshare?id=cfa03d2f16b7a72338699c4006dcff17)     
    - ### JUC
       - [AQS结构及原理分析](http://note.youdao.com/noteshare?id=f34aeb782ff9ca5dad9e6e92c9c11d44)    
+      - [AQS生动剖析](http://note.youdao.com/s/SxwgVeFE)    
    - ### synchronized
       - [synchronized底层实现原理及锁优化](http://note.youdao.com/s/Y3hVVR)    
       - [Java中的21种锁](http://note.youdao.com/s/X2KYTVsU)    
