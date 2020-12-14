@@ -5,3 +5,5 @@
 - ## [从面试角度一文学完 Kafka](http://note.youdao.com/s/diOorWtm)
 - ## tomcat
    - ### [Tomcat类加载器破坏双亲委派](http://note.youdao.com/s/B8r9mUrH)
+- ## redis
+   - ### [Redis面试全攻略](http://note.youdao.com/s/dM0PrFPO)  
