@@ -10,5 +10,6 @@
 - ## redis
    - ### [Redis面试全攻略](http://note.youdao.com/s/dM0PrFPO)  
    - ### [Redis概述](http://note.youdao.com/s/OsY7bErQ)  
+   - ### [Redis概述2](http://note.youdao.com/s/3HLK032B)  
 - ## 设计   
    - ### [领域驱动设计DDD理解](http://note.youdao.com/s/Sky21nJf)
