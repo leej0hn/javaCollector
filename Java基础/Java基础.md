@@ -12,6 +12,7 @@
    - ### [IO详细分析](http://note.youdao.com/s/MDJrdgYi)   
    - ### [Socket网络编程：BIO，NIO，select，epoll](http://note.youdao.com/noteshare?id=99a225da2b9b060e6c25df74f7e7de59)  
    - ### [epoll本质](http://note.youdao.com/noteshare?id=0071e781bfc05a95a24fb1ed3ea351c9)     
+   - ### [一台Linux服务器最多能支撑多少个TCP连接](http://note.youdao.com/s/VhVnP7VJ)     
 - ## 并发
    - ### CAS
       - [漫画：什么是 CAS 机制？](http://note.youdao.com/noteshare?id=7922870bfab92e083663d5d855e5c3d0) 
@@ -24,6 +25,8 @@
    - ### synchronized
       - [synchronized底层实现原理及锁优化](http://note.youdao.com/s/Y3hVVR)    
       - [Java中的21种锁](http://note.youdao.com/s/X2KYTVsU)    
+- ## 动态代理
+   - ### [动态代理概述](http://note.youdao.com/s/C3NRnIuF)
 - ## JVM
    - ### [JVM优化实战分析.pdf](http://note.youdao.com/noteshare?id=a1ace96da8ce6ce4f9fc16fbb615e4b3)
    - ### [JVM之内存分配---栈分配与TLAB](http://note.youdao.com/noteshare?id=24a603cb4cefd492a1b873539d1d2465)

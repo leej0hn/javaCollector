@@ -1,7 +1,5 @@
 # Java进阶
 - ## [advanced-java.pdf](http://note.youdao.com/noteshare?id=ac9d6b5f74cc89b3f477343817454928)
-- ## [如何设计出健壮的秒杀系统](http://note.youdao.com/noteshare?id=7ae858929f993d1dfd51623415b12014)
-- ## [分布式锁](http://note.youdao.com/noteshare?id=e1333b8336afdb635bdc6e6be929c6a4)
 - ## MQ
    - ### [从面试角度一文学完 Kafka](http://note.youdao.com/s/diOorWtm)
    - ### [MQ概述](http://note.youdao.com/s/N905Edvz)
@@ -11,5 +9,10 @@
    - ### [Redis面试全攻略](http://note.youdao.com/s/dM0PrFPO)  
    - ### [Redis概述](http://note.youdao.com/s/OsY7bErQ)  
    - ### [Redis概述2](http://note.youdao.com/s/3HLK032B)  
+- ## 分布式锁
+   - ### [分布式锁](http://note.youdao.com/noteshare?id=e1333b8336afdb635bdc6e6be929c6a4)   
 - ## 设计   
    - ### [领域驱动设计DDD理解](http://note.youdao.com/s/Sky21nJf)
+- ## 整合  
+   - ### [分布式全局唯一ID生成策略及算法的对比](http://note.youdao.com/s/CMlU0hmz)
+   - ## [如何设计出健壮的秒杀系统](http://note.youdao.com/noteshare?id=7ae858929f993d1dfd51623415b12014)
