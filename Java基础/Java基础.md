@@ -12,7 +12,6 @@
    - ### [IO详细分析](http://note.youdao.com/s/MDJrdgYi)   
    - ### [Socket网络编程：BIO，NIO，select，epoll](http://note.youdao.com/noteshare?id=99a225da2b9b060e6c25df74f7e7de59)  
    - ### [epoll本质](http://note.youdao.com/noteshare?id=0071e781bfc05a95a24fb1ed3ea351c9)     
-   - ### [一台Linux服务器最多能支撑多少个TCP连接](http://note.youdao.com/s/VhVnP7VJ)     
 - ## 并发
    - ### CAS
       - [漫画：什么是 CAS 机制？](http://note.youdao.com/noteshare?id=7922870bfab92e083663d5d855e5c3d0) 
