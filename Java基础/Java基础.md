@@ -24,6 +24,7 @@
    - ### synchronized
       - [synchronized底层实现原理及锁优化](http://note.youdao.com/s/Y3hVVR)    
       - [Java中的21种锁](http://note.youdao.com/s/X2KYTVsU)    
+   - ### [JAVA并发十二点](http://note.youdao.com/s/AqWANdrE)
 - ## 动态代理
    - ### [动态代理概述](http://note.youdao.com/s/C3NRnIuF)
 - ## JVM
@@ -46,6 +47,10 @@
    - ### [Spring源码简要分析](http://note.youdao.com/noteshare?id=24906ff0acce29c84f28cadbda248b29)   
    - ### [Spring循环依赖](http://note.youdao.com/noteshare?id=6e349beea3918a855fd963a65c132834)   
    - ### [spring强化](http://note.youdao.com/s/SntW03YV)   
+   - ### [Spring Cloud底层原理](http://note.youdao.com/s/BQrilswc)   
+   - ### [Spring Cloud参数优化实战](http://note.youdao.com/s/dG43J2se)   
+- ## Mybatis
+  - ### [Mybatis使用的9种设计模式](http://note.youdao.com/s/b64GTLmH)
 - ## 认证授权
    - ### [OAuth 2.0 的四种方式](http://note.youdao.com/s/CK1nZhpZ)   
    - ### [OAuth2.0认证和授权机制讲解](http://note.youdao.com/s/F4jeaE8S)
