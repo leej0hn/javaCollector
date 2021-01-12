@@ -33,6 +33,7 @@
    - ### [十问JVM](http://note.youdao.com/s/bgwV1KF4)
    - ### [JVM 线上故障排查基本操作](http://note.youdao.com/s/CyzSBHKU)
    - ### [常量池理解](http://note.youdao.com/s/WLKHDJps)
+   - ### [JVM核心知识点](http://note.youdao.com/s/JmpgO1oI)
 - ## java8新特性
    - ### [java8新特性](http://note.youdao.com/noteshare?id=ff67d4dcc181f5952d10602634255c98)   
 - ## SPI
