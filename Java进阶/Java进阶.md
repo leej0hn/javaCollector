@@ -16,3 +16,4 @@
 - ## 整合  
    - ### [分布式全局唯一ID生成策略及算法的对比](http://note.youdao.com/s/CMlU0hmz)
    - ## [如何设计出健壮的秒杀系统](http://note.youdao.com/noteshare?id=7ae858929f993d1dfd51623415b12014)
+   - ## [分布式面试题精简版](http://note.youdao.com/s/YC9KUEJy)
