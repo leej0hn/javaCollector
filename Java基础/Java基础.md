@@ -34,6 +34,7 @@
    - ### [JVM 线上故障排查基本操作](http://note.youdao.com/s/CyzSBHKU)
    - ### [常量池理解](http://note.youdao.com/s/WLKHDJps)
    - ### [JVM核心知识点](http://note.youdao.com/s/JmpgO1oI)
+   - ### [内存泄漏定位(真实场景记录)](http://note.youdao.com/s/1tl3PrSB)
 - ## java8新特性
    - ### [java8新特性](http://note.youdao.com/noteshare?id=ff67d4dcc181f5952d10602634255c98)   
 - ## SPI
