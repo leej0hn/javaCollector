@@ -36,6 +36,7 @@
    - ### [JVM核心知识点](http://note.youdao.com/s/JmpgO1oI)
    - ### [内存泄漏定位(真实场景记录)](http://note.youdao.com/s/1tl3PrSB)
    - ### [详解双亲委派](http://note.youdao.com/s/BbEgnMN0)
+   - ### [一文理解JVM虚拟机](http://note.youdao.com/s/56jXNiz4)
 - ## java8新特性
    - ### [java8新特性](http://note.youdao.com/noteshare?id=ff67d4dcc181f5952d10602634255c98)   
 - ## SPI
