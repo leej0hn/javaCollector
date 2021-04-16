@@ -7,7 +7,7 @@
       - [HashMap在1.7和1.8中区别](http://note.youdao.com/noteshare?id=6be03332bb017e338bcf1e217c53cf2c)
       - [为什么HashMap使用红黑树而不使用AVL树](http://note.youdao.com/noteshare?id=8d9cec4fc7a2d106a82939cf8c4e1d36)
       - [HashMap源码之tableSizeFor](http://note.youdao.com/s/WKZK6bHb)
-      - [HashMap 原理细讲](http://note.youdao.com/s/2csbAg2I)
+      - [HashMap原理细讲](http://note.youdao.com/s/2csbAg2I)
 - ## IO
    - ### [IO 模型](http://note.youdao.com/noteshare?id=561f9fcc6eb98efe720a10bd23f07073)
    - ### [IO详细分析](http://note.youdao.com/s/MDJrdgYi)   
