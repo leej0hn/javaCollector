@@ -3,17 +3,30 @@
 - ## MQ
    - ### [从面试角度一文学完 Kafka](http://note.youdao.com/s/diOorWtm)
    - ### [MQ概述](http://note.youdao.com/s/N905Edvz)
+   - ### [六问Kafka优势](http://note.youdao.com/s/cbEKdRnr)
+   - ### [RabbitMQ 高频考点](http://note.youdao.com/s/TPhBqUAD)
+   - ### [代码细讲上手MQ](http://note.youdao.com/s/Qdt2EwAu)
 - ## tomcat
    - ### [Tomcat类加载器破坏双亲委派](http://note.youdao.com/s/B8r9mUrH)
 - ## redis
    - ### [Redis面试全攻略](http://note.youdao.com/s/dM0PrFPO)  
    - ### [Redis概述](http://note.youdao.com/s/OsY7bErQ)  
    - ### [Redis概述2](http://note.youdao.com/s/3HLK032B)  
+   - ### [Redis主从复制、哨兵、Cluster三种模式摸透](http://note.youdao.com/s/4Nh60ACe)  
+   - ### [Redis 高可用篇：主从架构数据同步原理](http://note.youdao.com/s/2JxkBcyX)  
+   - ### [数据库跟缓存的双写一致性](http://note.youdao.com/s/dk4SgVrA)  
+- ## Elasticsearch
+  - ## [深度解读 Elasticsearch 分页查询](http://note.youdao.com/s/cn9YZa6b)
+- ## zookeeper
+  - ## [讲解 Zookeeper 的五个核心知识点](http://note.youdao.com/s/9Ad1Zoas)
 - ## 分布式锁
    - ### [分布式锁](http://note.youdao.com/noteshare?id=e1333b8336afdb635bdc6e6be929c6a4)   
+   - ### [9问分布式锁](http://note.youdao.com/s/FFmsawoH)   
 - ## 设计   
    - ### [领域驱动设计DDD理解](http://note.youdao.com/s/Sky21nJf)
+   - ### [浅谈大数据中的 2PC、3PC、Paxos、Raft、ZAB](http://note.youdao.com/s/Gc6hOfC4)
 - ## 整合  
    - ### [分布式全局唯一ID生成策略及算法的对比](http://note.youdao.com/s/CMlU0hmz)
    - ## [如何设计出健壮的秒杀系统](http://note.youdao.com/noteshare?id=7ae858929f993d1dfd51623415b12014)
    - ## [分布式面试题精简版](http://note.youdao.com/s/YC9KUEJy)
+   - ## [详细分库分表](http://note.youdao.com/s/BIlasGOm)

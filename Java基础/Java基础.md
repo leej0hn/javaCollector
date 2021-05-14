@@ -13,6 +13,7 @@
    - ### [IO详细分析](http://note.youdao.com/s/MDJrdgYi)   
    - ### [Socket网络编程：BIO，NIO，select，epoll](http://note.youdao.com/noteshare?id=99a225da2b9b060e6c25df74f7e7de59)  
    - ### [epoll本质](http://note.youdao.com/noteshare?id=0071e781bfc05a95a24fb1ed3ea351c9)     
+   - ### [mmap概念](http://note.youdao.com/s/SmtXOqlc)     
 - ## 并发
    - ### CAS
       - [漫画：什么是 CAS 机制？](http://note.youdao.com/noteshare?id=7922870bfab92e083663d5d855e5c3d0) 
@@ -38,6 +39,7 @@
    - ### [内存泄漏定位(真实场景记录)](http://note.youdao.com/s/1tl3PrSB)
    - ### [详解双亲委派](http://note.youdao.com/s/BbEgnMN0)
    - ### [一文理解JVM虚拟机](http://note.youdao.com/s/56jXNiz4)
+   - ### [FGC频率降低实操](http://note.youdao.com/s/SZltoezK)
 - ## java8新特性
    - ### [java8新特性](http://note.youdao.com/noteshare?id=ff67d4dcc181f5952d10602634255c98)   
 - ## SPI
