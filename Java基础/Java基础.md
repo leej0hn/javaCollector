@@ -60,6 +60,8 @@
    - ### [Spring十三问](http://note.youdao.com/s/GpbQSLgp)   
 - ## Mybatis
   - ### [Mybatis使用的9种设计模式](http://note.youdao.com/s/b64GTLmH)
+  - ### [MyBatis功能架构设计](http://note.youdao.com/s/8qKZVa23)
+  - ### [mybatis原理-示例解读源码](http://note.youdao.com/s/UFeBjLqb)
 - ## 认证授权
    - ### [OAuth 2.0 的四种方式](http://note.youdao.com/s/CK1nZhpZ)   
    - ### [OAuth2.0认证和授权机制讲解](http://note.youdao.com/s/F4jeaE8S)
