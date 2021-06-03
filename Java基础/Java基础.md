@@ -9,7 +9,7 @@
       - [HashMap源码之tableSizeFor](http://note.youdao.com/s/WKZK6bHb)
       - [HashMap原理细讲](http://note.youdao.com/s/2csbAg2I)
 - ## IO
-   - ### [IO 模型](http://note.youdao.com/noteshare?id=561f9fcc6eb98efe720a10bd23f07073)
+   - ### [IO模型](http://note.youdao.com/noteshare?id=561f9fcc6eb98efe720a10bd23f07073)
    - ### [IO详细分析](http://note.youdao.com/s/MDJrdgYi)   
    - ### [Socket网络编程：BIO，NIO，select，epoll](http://note.youdao.com/noteshare?id=99a225da2b9b060e6c25df74f7e7de59)  
    - ### [epoll本质](http://note.youdao.com/noteshare?id=0071e781bfc05a95a24fb1ed3ea351c9)     
@@ -62,8 +62,12 @@
   - ### [Mybatis使用的9种设计模式](http://note.youdao.com/s/b64GTLmH)
   - ### [MyBatis功能架构设计](http://note.youdao.com/s/8qKZVa23)
   - ### [mybatis原理-示例解读源码](http://note.youdao.com/s/UFeBjLqb)
+- ## netty
+    - ### [Netty架构原理](https://note.youdao.com/s/9D0ceL4c)
+    - ### [细说Netty](https://note.youdao.com/s/RZgE4mhf)
 - ## 认证授权
    - ### [OAuth 2.0 的四种方式](http://note.youdao.com/s/CK1nZhpZ)   
    - ### [OAuth2.0认证和授权机制讲解](http://note.youdao.com/s/F4jeaE8S)
 - ## 整合
    - ### [基础强化](http://note.youdao.com/s/7Fiqox2T)   
+    
