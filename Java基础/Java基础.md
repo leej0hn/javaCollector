@@ -40,6 +40,7 @@
    - ### [详解双亲委派](http://note.youdao.com/s/BbEgnMN0)
    - ### [一文理解JVM虚拟机](http://note.youdao.com/s/56jXNiz4)
    - ### [FGC频率降低实操](http://note.youdao.com/s/SZltoezK)
+   - ### [理解G1垃圾回收算法](https://note.youdao.com/s/FRPjazLA)
 - ## java8新特性
    - ### [java8新特性](http://note.youdao.com/noteshare?id=ff67d4dcc181f5952d10602634255c98)   
 - ## SPI
