@@ -12,6 +12,7 @@
    - ### [Redis面试全攻略](http://note.youdao.com/s/dM0PrFPO)  
    - ### [Redis概述](http://note.youdao.com/s/OsY7bErQ)  
    - ### [Redis概述2](http://note.youdao.com/s/3HLK032B)  
+   - ### [Redis概述3](https://note.youdao.com/s/aDkF55JS)  
    - ### [Redis主从复制、哨兵、Cluster三种模式摸透](http://note.youdao.com/s/4Nh60ACe)  
    - ### [Redis 高可用篇：主从架构数据同步原理](http://note.youdao.com/s/2JxkBcyX)  
    - ### [数据库跟缓存的双写一致性](http://note.youdao.com/s/dk4SgVrA)  

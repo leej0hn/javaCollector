@@ -23,6 +23,7 @@
    - ### JUC
       - [AQS结构及原理分析](http://note.youdao.com/noteshare?id=f34aeb782ff9ca5dad9e6e92c9c11d44)    
       - [AQS生动剖析](http://note.youdao.com/s/SxwgVeFE)    
+      - [图解AbstractQueuedSynchronizer](https://note.youdao.com/s/N6u9yuPT)    
    - ### synchronized
       - [synchronized底层实现原理及锁优化](http://note.youdao.com/s/Y3hVVR)    
       - [Java中的21种锁](http://note.youdao.com/s/X2KYTVsU)    
@@ -59,6 +60,7 @@
    - ### [springAOP核心组件分析](http://note.youdao.com/s/MsWgPuxC)   
    - ### [Spring IOC源码分析](http://note.youdao.com/s/PedTlFnX)   
    - ### [Spring十三问](http://note.youdao.com/s/GpbQSLgp)   
+   - ### [搞懂Spring Bean的一生](https://note.youdao.com/s/RW0GF4rq)   
 - ## Mybatis
   - ### [Mybatis使用的9种设计模式](http://note.youdao.com/s/b64GTLmH)
   - ### [MyBatis功能架构设计](http://note.youdao.com/s/8qKZVa23)
