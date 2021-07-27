@@ -13,6 +13,7 @@
    - ### [IO详细分析](http://note.youdao.com/s/MDJrdgYi)   
    - ### [Socket网络编程：BIO，NIO，select，epoll](http://note.youdao.com/noteshare?id=99a225da2b9b060e6c25df74f7e7de59)  
    - ### [epoll本质](http://note.youdao.com/noteshare?id=0071e781bfc05a95a24fb1ed3ea351c9)     
+   - ### [epoll通俗描述](https://note.youdao.com/s/ACYpkHP5)     
    - ### [mmap概念](http://note.youdao.com/s/SmtXOqlc)     
 - ## 并发
    - ### CAS
