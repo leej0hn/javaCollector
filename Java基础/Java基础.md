@@ -67,7 +67,8 @@
   - ### [MyBatis功能架构设计](http://note.youdao.com/s/8qKZVa23)
   - ### [mybatis原理-示例解读源码](http://note.youdao.com/s/UFeBjLqb)
 - ## netty
-    - ### [Netty架构原理](https://note.youdao.com/s/9D0ceL4c)
+    - ### [Netty架构原理1](https://note.youdao.com/s/9D0ceL4c)
+    - ### [Netty架构原理2](https://note.youdao.com/s/Tr85sl3e)
     - ### [细说Netty](https://note.youdao.com/s/RZgE4mhf)
 - ## 认证授权
    - ### [OAuth 2.0 的四种方式](http://note.youdao.com/s/CK1nZhpZ)   
