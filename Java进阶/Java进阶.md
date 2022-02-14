@@ -10,7 +10,6 @@
    - ### [Tomcat类加载器破坏双亲委派](http://note.youdao.com/s/B8r9mUrH)
 - ## redis
    - ### [Redis面试全攻略](http://note.youdao.com/s/dM0PrFPO)  
-   - ### [Redis概述](http://note.youdao.com/s/OsY7bErQ)  
    - ### [Redis概述2](http://note.youdao.com/s/3HLK032B)  
    - ### [Redis概述3](https://note.youdao.com/s/aDkF55JS)  
    - ### [Redis主从复制、哨兵、Cluster三种模式摸透](http://note.youdao.com/s/4Nh60ACe)  
