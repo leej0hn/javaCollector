@@ -70,6 +70,7 @@
     - ### [Netty架构原理1](https://note.youdao.com/s/9D0ceL4c)
     - ### [Netty架构原理2](https://note.youdao.com/s/Tr85sl3e)
     - ### [细说Netty](https://note.youdao.com/s/RZgE4mhf)
+    - ### [ByteBuf 的申请和释放策略](https://note.youdao.com/s/OyZjWhg4)
 - ## 认证授权
    - ### [OAuth 2.0 的四种方式](http://note.youdao.com/s/CK1nZhpZ)   
    - ### [OAuth2.0认证和授权机制讲解](http://note.youdao.com/s/F4jeaE8S)
