@@ -66,6 +66,7 @@
   - ### [Mybatis使用的9种设计模式](http://note.youdao.com/s/b64GTLmH)
   - ### [MyBatis功能架构设计](http://note.youdao.com/s/8qKZVa23)
   - ### [mybatis原理-示例解读源码](http://note.youdao.com/s/UFeBjLqb)
+  - ### [Mybatis插件原理解析](https://note.youdao.com/s/4S2dyJxD)
 - ## netty
     - ### [Netty架构原理1](https://note.youdao.com/s/9D0ceL4c)
     - ### [Netty架构原理2](https://note.youdao.com/s/Tr85sl3e)

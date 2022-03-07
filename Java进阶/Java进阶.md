@@ -20,6 +20,8 @@
   - ## [图解ES 原理](https://note.youdao.com/s/LflxRIGl)
 - ## zookeeper
   - ## [讲解 Zookeeper 的五个核心知识点](http://note.youdao.com/s/9Ad1Zoas)
+- ##  nginx
+  - ## [Nginx原理和架构](https://note.youdao.com/s/Kb0Qpcs2)
 - ## 分布式锁
    - ### [分布式锁](http://note.youdao.com/noteshare?id=e1333b8336afdb635bdc6e6be929c6a4)   
    - ### [9问分布式锁](http://note.youdao.com/s/FFmsawoH)   
