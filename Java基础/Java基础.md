@@ -72,6 +72,7 @@
     - ### [Netty架构原理2](https://note.youdao.com/s/Tr85sl3e)
     - ### [细说Netty](https://note.youdao.com/s/RZgE4mhf)
     - ### [Netty内存池化规避内存泄漏](https://note.youdao.com/s/OyZjWhg4)
+    - ### [netty池化技术](https://note.youdao.com/s/QD516J5l)
 - ## 认证授权
    - ### [OAuth 2.0 的四种方式](http://note.youdao.com/s/CK1nZhpZ)   
    - ### [OAuth2.0认证和授权机制讲解](http://note.youdao.com/s/F4jeaE8S)
