@@ -6,6 +6,7 @@
    - ### [六问Kafka优势](http://note.youdao.com/s/cbEKdRnr)
    - ### [RabbitMQ 高频考点](http://note.youdao.com/s/TPhBqUAD)
    - ### [代码细讲上手MQ](http://note.youdao.com/s/Qdt2EwAu)
+   - ### [Kafka文件存储机制](https://note.youdao.com/s/2kYdAelY)
 - ## tomcat
    - ### [Tomcat类加载器破坏双亲委派](http://note.youdao.com/s/B8r9mUrH)
 - ## redis
