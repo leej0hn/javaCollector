@@ -26,6 +26,9 @@
 - ## 分布式锁
    - ### [分布式锁](http://note.youdao.com/noteshare?id=e1333b8336afdb635bdc6e6be929c6a4)   
    - ### [9问分布式锁](http://note.youdao.com/s/FFmsawoH)   
+- ## 高可用
+  - ### [异地多活](https://note.youdao.com/s/16JpVqjF)
+  - ### [高可用和异地多活](https://note.youdao.com/s/YuWCSzCO)
 - ## 设计   
    - ### [领域驱动设计DDD理解](http://note.youdao.com/s/Sky21nJf)
    - ### [浅谈大数据中的 2PC、3PC、Paxos、Raft、ZAB](http://note.youdao.com/s/Gc6hOfC4)
