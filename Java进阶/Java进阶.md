@@ -20,7 +20,8 @@
   - ## [深度解读 Elasticsearch 分页查询](http://note.youdao.com/s/cn9YZa6b)
   - ## [图解ES 原理](https://note.youdao.com/s/LflxRIGl)
 - ## zookeeper
-  - ## [讲解 Zookeeper 的五个核心知识点](http://note.youdao.com/s/9Ad1Zoas)
+  - ## [Zookeeper 的五个核心知识点](http://note.youdao.com/s/9Ad1Zoas)
+  - ## [zookeeper服务注册原理](https://note.youdao.com/s/UFSpVCIQ)
 - ##  nginx
   - ## [Nginx原理和架构](https://note.youdao.com/s/Kb0Qpcs2)
 - ## 分布式锁
