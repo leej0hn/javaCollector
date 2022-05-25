@@ -29,6 +29,7 @@
       - [synchronized底层实现原理及锁优化](http://note.youdao.com/s/Y3hVVR)    
       - [Java中的21种锁](http://note.youdao.com/s/X2KYTVsU)    
    - ### [JAVA并发十二点](http://note.youdao.com/s/AqWANdrE)
+   - ### [线程变量ThreadLocal](https://note.youdao.com/s/4iwBO4kA)
 - ## 动态代理
    - ### [动态代理概述](http://note.youdao.com/s/C3NRnIuF)
 - ## JVM
