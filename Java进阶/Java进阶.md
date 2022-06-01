@@ -7,6 +7,9 @@
    - ### [RabbitMQ 高频考点](http://note.youdao.com/s/TPhBqUAD)
    - ### [代码细讲上手MQ](http://note.youdao.com/s/Qdt2EwAu)
    - ### [Kafka文件存储机制](https://note.youdao.com/s/2kYdAelY)
+   - ### [RocketMQ二十三问](https://note.youdao.com/s/crZM9aD5)
+   - ### [MQ设计演变](https://note.youdao.com/s/cwEvWPsl)
+   - ### [kafka三高架构设计剖析](https://note.youdao.com/s/11mc05xO)
 - ## tomcat
    - ### [Tomcat类加载器破坏双亲委派](http://note.youdao.com/s/B8r9mUrH)
 - ## redis
