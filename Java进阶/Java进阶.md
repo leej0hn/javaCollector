@@ -19,6 +19,7 @@
    - ### [Redis主从复制、哨兵、Cluster三种模式摸透](http://note.youdao.com/s/4Nh60ACe)  
    - ### [Redis 高可用篇：主从架构数据同步原理](http://note.youdao.com/s/2JxkBcyX)  
    - ### [数据库跟缓存的双写一致性](http://note.youdao.com/s/dk4SgVrA)  
+   - ### [一致性哈希算法](https://note.youdao.com/s/9WlTzsqh)  
 - ## Elasticsearch
   - ## [深度解读 Elasticsearch 分页查询](http://note.youdao.com/s/cn9YZa6b)
   - ## [图解ES 原理](https://note.youdao.com/s/LflxRIGl)
